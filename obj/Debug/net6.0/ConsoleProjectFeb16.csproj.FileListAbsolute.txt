@@ -12,3 +12,4 @@ C:\Users\dell\source\repos\ConsoleProjectFeb16\ConsoleProjectFeb16\obj\Debug\net
 C:\Users\dell\source\repos\ConsoleProjectFeb16\ConsoleProjectFeb16\obj\Debug\net6.0\ConsoleProjectFeb16.pdb
 C:\Users\dell\source\repos\ConsoleProjectFeb16\ConsoleProjectFeb16\obj\Debug\net6.0\ConsoleProjectFeb16.genruntimeconfig.cache
 C:\Users\dell\source\repos\ConsoleProjectFeb16\ConsoleProjectFeb16\obj\Debug\net6.0\ref\ConsoleProjectFeb16.dll
+C:\Users\dell\source\repos\ConsoleProjectFeb16\ConsoleProjectFeb16\obj\Debug\net6.0\ConsoleProjectFeb16.sourcelink.json
