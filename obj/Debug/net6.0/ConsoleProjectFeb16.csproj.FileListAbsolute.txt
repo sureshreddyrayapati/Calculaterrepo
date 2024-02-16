@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\ConsoleProjectFeb16\ConsoleProjectFeb16\bin\Debug\net6.0\ConsoleProjectFeb16.exe
+C:\Users\dell\source\repos\ConsoleProjectFeb16\ConsoleProjectFeb16\bin\Debug\net6.0\ConsoleProjectFeb16.deps.json
+C:\Users\dell\source\repos\ConsoleProjectFeb16\ConsoleProjectFeb16\bin\Debug\net6.0\ConsoleProjectFeb16.runtimeconfig.json
+C:\Users\dell\source\repos\ConsoleProjectFeb16\ConsoleProjectFeb16\bin\Debug\net6.0\ConsoleProjectFeb16.dll
+C:\Users\dell\source\repos\ConsoleProjectFeb16\ConsoleProjectFeb16\bin\Debug\net6.0\ConsoleProjectFeb16.pdb
+C:\Users\dell\source\repos\ConsoleProjectFeb16\ConsoleProjectFeb16\obj\Debug\net6.0\ConsoleProjectFeb16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\ConsoleProjectFeb16\ConsoleProjectFeb16\obj\Debug\net6.0\ConsoleProjectFeb16.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\ConsoleProjectFeb16\ConsoleProjectFeb16\obj\Debug\net6.0\ConsoleProjectFeb16.AssemblyInfo.cs
+C:\Users\dell\source\repos\ConsoleProjectFeb16\ConsoleProjectFeb16\obj\Debug\net6.0\ConsoleProjectFeb16.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\ConsoleProjectFeb16\ConsoleProjectFeb16\obj\Debug\net6.0\ConsoleProjectFeb16.dll
+C:\Users\dell\source\repos\ConsoleProjectFeb16\ConsoleProjectFeb16\obj\Debug\net6.0\refint\ConsoleProjectFeb16.dll
+C:\Users\dell\source\repos\ConsoleProjectFeb16\ConsoleProjectFeb16\obj\Debug\net6.0\ConsoleProjectFeb16.pdb
+C:\Users\dell\source\repos\ConsoleProjectFeb16\ConsoleProjectFeb16\obj\Debug\net6.0\ConsoleProjectFeb16.genruntimeconfig.cache
+C:\Users\dell\source\repos\ConsoleProjectFeb16\ConsoleProjectFeb16\obj\Debug\net6.0\ref\ConsoleProjectFeb16.dll
