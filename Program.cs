@@ -7,3 +7,5 @@ Console.WriteLine("Sub Cal");
 cal.Sub(125.6, 100);
 Console.WriteLine("Multiplication");
 cal.Mul(48.3, 10.36);
+Console.WriteLine("Avargae");
+cal.Avg(9, 8);

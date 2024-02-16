@@ -18,5 +18,9 @@ namespace ConsoleProjectFeb16
         {
             Console.WriteLine("Result after Multiplication" + (x * y));
         }
+        public void Avg(double x, double y)
+        {
+            Console.WriteLine($"avarage of {x} and {y} is :"+(x+y)/2);
+        }
     }
 }
